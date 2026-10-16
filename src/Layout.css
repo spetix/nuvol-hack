@@ -1,0 +1,17 @@
+#my-nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+#my-nav a {
+  text-decoration: none;
+  padding: 0.3em;
+}
+
+main {
+    border: 1px solid #ccc;
+    border-radius: 2em;
+    padding: 1em 2em;
+    min-height: 300px;
+}
+

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 4537,
+    "dataPubblicazione": "2026-10-08T16:03:00+02:00",
+    "dataArchiviazione": "2027-06-30T23:59:59+02:00",
+    "nomeVoceTitolario": "UNICO",
+    "numeroRegistro": "0000022",
+    "dataNumeroRegistro": "2026-10-08",
+    "oggetto": "Account istituzionale studenti Google Workspace e Canva",
+    "adesioneRichiesta": false,
+    "dataScadenzaAdesione": null,
+    "metadata": { "isRead": true }
+  },
+  {
+    "id": 4525,
+    "dataPubblicazione": "2026-10-06T11:58:00+02:00",
+    "dataArchiviazione": "2027-01-04T23:59:59+01:00",
+    "nomeVoceTitolario": "UNICO",
+    "numeroRegistro": "0000019",
+    "dataNumeroRegistro": "2026-10-06",
+    "oggetto": "Seminario in collaborazione con il Ci.ps.ps.ia",
+    "adesioneRichiesta": false,
+    "dataScadenzaAdesione": null,
+    "metadata": { "isRead": true }
+  },
+  {
+    "id": 4523,
+    "dataPubblicazione": "2026-10-06T09:44:00+02:00",
+    "dataArchiviazione": "2027-06-30T23:59:59+02:00",
+    "nomeVoceTitolario": "UNICO",
+    "numeroRegistro": "0000018",
+    "dataNumeroRegistro": "2026-10-06",
+    "oggetto": "Assemblea per elezione rappresentanti di classe scuola primaria a.s.2026\/2027",
+    "adesioneRichiesta": false,
+    "dataScadenzaAdesione": null,
+    "metadata": { "isRead": true }
+  },
+  {
+    "id": 4513,
+    "dataPubblicazione": "2026-10-02T15:03:00+02:00",
+    "dataArchiviazione": "2027-08-31T23:59:59+02:00",
+    "nomeVoceTitolario": "UNICO",
+    "numeroRegistro": "0000017",
+    "dataNumeroRegistro": "2026-10-02",
+    "oggetto": "Abbigliamento degli studenti e delle studentesse \u2013 rispetto del contesto scolastico e delle finalit\u00e0 educative dell\u0027Istituzione",
+    "adesioneRichiesta": false,
+    "dataScadenzaAdesione": null,
+    "metadata": { "isRead": true }
+  },
+  {
+    "id": 4510,
+    "dataPubblicazione": "2026-10-02T15:03:00+02:00",
+    "dataArchiviazione": "2027-08-31T23:59:59+02:00",
+    "nomeVoceTitolario": "UNICO",
+    "numeroRegistro": "0000016",
+    "dataNumeroRegistro": "2026-10-02",
+    "oggetto": "Disposizioni in materia di consenso informato in ambito scolastico",
+    "adesioneRichiesta": false,
+    "dataScadenzaAdesione": null,
+    "metadata": { "isRead": true }
+  },
+  {
+    "id": 4503,
+    "dataPubblicazione": "2026-10-02T14:03:00+02:00",
+    "dataArchiviazione": "2026-12-31T23:59:59+01:00",
+    "nomeVoceTitolario": "UNICO",
+    "numeroRegistro": "0000015",
+    "dataNumeroRegistro": "2026-10-02",
+    "oggetto": "comunicazione ai genitori assemblea sindacale Anief",
+    "adesioneRichiesta": false,
+    "dataScadenzaAdesione": null,
+    "metadata": { "isRead": true }
+  },
+  {
+    "id": 4488,
+    "dataPubblicazione": "2026-09-25T12:40:00+02:00",
+    "dataArchiviazione": "2026-12-24T23:59:59+01:00",
+    "nomeVoceTitolario": "UNICO",
+    "numeroRegistro": "0000008",
+    "dataNumeroRegistro": "2026-09-25",
+    "oggetto": " SCIOPERO DEL 02\/10\/26  SINDACATO CSLE",
+    "adesioneRichiesta": false,
+    "dataScadenzaAdesione": null,
+    "metadata": { "isRead": true }
+  },
+  {
+    "id": 4479,
+    "dataPubblicazione": "2026-09-23T11:29:00+02:00",
+    "dataArchiviazione": "2026-12-22T23:59:59+01:00",
+    "nomeVoceTitolario": "UNICO",
+    "numeroRegistro": "0000004",
+    "dataNumeroRegistro": "2026-09-23",
+    "oggetto": "Saluti a tutta la comunit\u00e0 scolastica",
+    "adesioneRichiesta": false,
+    "dataScadenzaAdesione": null,
+    "metadata": { "isRead": true }
+  },
+  {
+    "id": 4473,
+    "dataPubblicazione": "2026-09-23T11:16:00+02:00",
+    "dataArchiviazione": "2027-01-23T23:59:59+01:00",
+    "nomeVoceTitolario": "IV.5 - Progetti e materiali didattici",
+    "numeroRegistro": "0005668",
+    "dataNumeroRegistro": "2026-09-23",
+    "oggetto": "Atto di indirizzo AS. 2026\/27",
+    "adesioneRichiesta": false,
+    "dataScadenzaAdesione": null,
+    "metadata": { "isRead": true }
+  },
+  {
+    "id": 4412,
+    "dataPubblicazione": "2026-08-27T13:14:00+02:00",
+    "dataArchiviazione": "2026-11-25T23:59:59+01:00",
+    "nomeVoceTitolario": "UNICO",
+    "numeroRegistro": "0000193",
+    "dataNumeroRegistro": "2026-08-28",
+    "oggetto": "ASSICURAZIONE INTEGRATIVA E CONTRIBUTO VOLONTARIO A.S. 2026\/27.",
+    "adesioneRichiesta": false,
+    "dataScadenzaAdesione": null,
+    "metadata": { "isRead": true }
+  }
+]
